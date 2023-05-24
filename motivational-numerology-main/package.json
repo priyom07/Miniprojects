@@ -1,0 +1,24 @@
+{
+  "name": "motivational-numerology",
+  "version": "2.2.0",
+  "description": "Simple web page to calculate and interpret the numerology numbers derived from your name and birth date (in English, French, Japanese, and Turkish).",
+  "main": "js/numerology.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evoluteur/motivational-numerology.git"
+  },
+  "author": "Sally Faubion (http://sallysnumbers.com)",
+  "copyright": "(c) 2023 Sally Faubion & Olivier Giulieri",
+  "homepage": "https://evoluteur.github.io/motivational-numerology/",
+  "keywords": [
+    "numerology",
+    "numbers",
+    "gematria",
+    "arithmancy",
+    "motivation",
+    "forcast",
+    "interpretation",
+    "pythagore",
+    "javascript"
+  ]
+}
